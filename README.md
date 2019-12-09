@@ -10,7 +10,7 @@
 	
 ## 1.3激活运行环境，
 learning_log$ source ll_env/bin/activate
- (ll_env)learning_log$
+(ll_env)learning_log$
 	---因为我用的是windows的环境，所以方法是：
 C:\Users\cestm>C:\Users\cestm\python\learning_log\ll_env\Scripts\activate
 (ll_env) C:\Users\cestm>       
@@ -86,6 +86,8 @@ ll_env)learning_log$ python manage.py shell
 # 3.基础的WEBapp运行后，再用bootstrap3进行前端优化；
 
 # 4.这些过程再通过github进行代码管理。
+
+
 
 
 **创建docker发布这个webapp**
